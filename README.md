@@ -7,6 +7,7 @@ In this project, we will analyze sales data using MySQL. Analyzing data using My
 2. MySQL
    
 ## Problem Statements
+Our clients wants us to create a sales dashboard so that they can have insight on the below requirements:
 1. What is the total revenue on all sales?
 2. How much percent year over year revenue growth is in overall sales?
 3. What is the total profit on all sales?
